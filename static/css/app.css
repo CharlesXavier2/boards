@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+  }
+
+.navbar-brand {
+    font-family: 'Arvo', serif;
+}
+
+.topnav {
+    background-color: #49498d;
+}
+
+.navbar-brand {
+    font-family: 'Arvo', serif;
+    
+}
+
+.logo {
+    color: white;
+    
+}
+.login_button {
+    color: white ;
+}
+
+.my-bread {
+    background-color: #d6d6ef;
+}
+
+.my-nav-link {
+    color: aliceblue;
+}
+.my-nav-link:hover  {
+    color: black;
+    
+    
+}
